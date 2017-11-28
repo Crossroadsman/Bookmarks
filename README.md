@@ -6,20 +6,20 @@ Server Software
 ---------------
 
 ### Servers General ###
-**[Linode How To Secure Your Server][servers_general_01]**
-**[Linode How To Configure a Firewall with UFW][servers_general_02]**
+- **[Linode How To Secure Your Server][servers_general_01]**
+- **[Linode How To Configure a Firewall with UFW][servers_general_02]**
 
 ### Web Servers General ###
-**[Linode Web Server Guides][servers_web_01]**
+- **[Linode Web Server Guides][servers_web_01]**
 
 
 ### LAMP/LEMP General ###
-**[Linode Install LAMP on Ubuntu 16.04][servers_lamp_01]**
-**[Linode LEMP Guides][servers_lamp_02]**
+- **[Linode Install LAMP on Ubuntu 16.04][servers_lamp_01]**
+- **[Linode LEMP Guides][servers_lamp_02]**
 
 ### Apache ###
-**[Linode Apache Web Server on Ubuntu 14.04 LTS][servers_apache_01]**
-**[Linode Apache Tips and Tricks][servers_apache_02]**
+- **[Linode Apache Web Server on Ubuntu 14.04 LTS][servers_apache_01]**
+- **[Linode Apache Tips and Tricks][servers_apache_02]**
 
 
 Tools
