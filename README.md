@@ -37,7 +37,7 @@ JavaScript
 - **[ES2015 Crash Course][javascript_new_01]**
 
 ### Techniques ##
-- **[Addy Osmani: JavaScript Design Patterns Book][javascript_techniques_01]
+- **[Addy Osmani: JavaScript Design Patterns Book][javascript_techniques_01]**
 
 
 Web Frameworks
