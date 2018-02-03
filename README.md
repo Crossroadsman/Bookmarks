@@ -18,7 +18,6 @@ Server Software
 ### Web Servers General ###
 - **[Linode Web Server Guides][servers_web_01]**
 
-
 ### LAMP/LEMP General ###
 - **[Linode Install LAMP on Ubuntu 16.04][servers_lamp_01]**
 - **[Linode LEMP Guides][servers_lamp_02]**
@@ -26,6 +25,15 @@ Server Software
 ### Apache ###
 - **[Linode Apache Web Server on Ubuntu 14.04 LTS][servers_apache_01]**
 - **[Linode Apache Tips and Tricks][servers_apache_02]**
+
+
+Web Frameworks
+--------------
+
+### Django ###
+- **[Recommended Django Project Layout][webframeworks_django_01]**
+- **[Django Girls Tutorial][webframeworks_django_02]**
+- **[Tango With Django][webframeworks_django_03]**
 
 
 Tools
@@ -50,6 +58,7 @@ A video course on security.
 
 [misc_general_01]: https://hackr.io "Hackr.io: 'Find the Best programming Courses & Tutorials'"
 
+
 [servers_general_01]: https://www.linode.com/docs/security/securing-your-server "Linode: How to Secure Your Server"
 [servers_general_02]: https://www.linode.com/docs/security/firewalls/configure-firewall-with-ufw "Linode: How to Configure a Firewall with UFW"
 
@@ -60,6 +69,11 @@ A video course on security.
 
 [servers_apache_01]: https://www.linode.com/docs/web-servers/apache/apache-web-server-on-ubuntu-14-04 "Linode: Apache Web Server on Ubuntu 14.04 LTS"
 [servers_apache_02]: https://www.linode.com/docs/web-servers/apache-tips-and-tricks/ "Linode: Apache Tips & Tricks"
+
+
+[webframeworks_django_01]: https://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout/ "Revsys: Recommended Django Project Layout"
+[webframeworks_django_02]: https://tutorial.djangogirls.org/en/index.html "Django Girls Tutorial"
+[webframeworks_django_03]: www.tangowithdjango.com "Tango With Django"
 
 
 [tools_vim_01]: http://vimcasts.org/episodes/page/8/ "Vimcasts: Page 8 (oldest episodes)"
