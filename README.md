@@ -40,6 +40,15 @@ JavaScript
 - **[Addy Osmani: JavaScript Design Patterns Book][javascript_techniques_01]**
 
 
+Python
+------
+
+### General ###
+- **[Free Python Books][python_general_01]**
+
+### Techniques ###
+- **[Python Anti-Patterns][python_techniques_01]**
+
 Web Frameworks
 --------------
 
@@ -51,6 +60,9 @@ Web Frameworks
 
 Tools
 -----
+
+## Unix Command Line ###
+**[MacOS Awesome Command Line][tools_cli_01]**
 
 ### Vim ###
 
@@ -91,6 +103,11 @@ A video course on security.
 [javascript_techniques_01]: https://addyosmani.com/resources/essentialjsdesignpatterns/book/ "Osmani, Addy: JavaScript Design Patterns Book"
 
 
+[python_general_01]: https://pythonbooks.revolunet.com "Python Books: The Best Free Python Resources"
+
+[python_techniques_01]: https://github.com/quantifiedcode/python-anti-patterns/tree/master/docs "Quantified Code: Python Anti-Patterns"
+
+
 [webframeworks_django_01]: https://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout/ "Revsys: Recommended Django Project Layout"
 [webframeworks_django_02]: https://tutorial.djangogirls.org/en/index.html "Django Girls Tutorial"
 [webframeworks_django_03]: www.tangowithdjango.com "Tango With Django"
@@ -98,6 +115,8 @@ A video course on security.
 
 [tools_vim_01]: http://vimcasts.org/episodes/page/8/ "Vimcasts: Page 8 (oldest episodes)"
 [tools_vim_02]: http://vimcasts.org/episodes/tabs-and-spaces/ "Vimcasts: Episode 2: Tabs and Spaces"
+
+[tools_cli_01]: https://github.com/herrbischoff/awesome-macos-command-line "Awesome MacOS Command Line"
 
 
 [security_general_01]: https://www.hacker101.com/sessions/introduction "Hacker101: Introduction"
