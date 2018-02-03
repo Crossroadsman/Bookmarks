@@ -1,6 +1,12 @@
 Web Bookmarks
 =============
 
+Misc
+----
+
+### General Courses/Tutorials ###
+- **[Hackr.io][misc_general_01]**
+
 
 Server Software
 ---------------
@@ -40,6 +46,9 @@ Security
 **[Hacker101][security_general_01]**  
 A video course on security.
 
+
+
+[misc_general_01]: https://hackr.io "Hackr.io: 'Find the Best programming Courses & Tutorials'"
 
 [servers_general_01]: https://www.linode.com/docs/security/securing-your-server "Linode: How to Secure Your Server"
 [servers_general_02]: https://www.linode.com/docs/security/firewalls/configure-firewall-with-ufw "Linode: How to Configure a Firewall with UFW"
