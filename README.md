@@ -27,6 +27,19 @@ Server Software
 - **[Linode Apache Tips and Tricks][servers_apache_02]**
 
 
+JavaScript
+----------
+
+### General ###
+- **[Douglas Crockford's JavaScript Links][javascript_general_01]**
+
+### Recent Developments ###
+- **[ES2015 Crash Course][javascript_new_01]**
+
+### Techniques ##
+- **[Addy Osmani: JavaScript Design Patterns Book][javascript_techniques_01]
+
+
 Web Frameworks
 --------------
 
@@ -69,6 +82,13 @@ A video course on security.
 
 [servers_apache_01]: https://www.linode.com/docs/web-servers/apache/apache-web-server-on-ubuntu-14-04 "Linode: Apache Web Server on Ubuntu 14.04 LTS"
 [servers_apache_02]: https://www.linode.com/docs/web-servers/apache-tips-and-tricks/ "Linode: Apache Tips & Tricks"
+
+
+[javascript_general_01]: www.crockford.com/javascript/ "Douglas Crockford: JavaScript [links]"
+
+[javascript_new_01]: https://laracasts.com/series/es6-cliffsnotes "Laracasts: ES2015 Crash Course"
+
+[javascript_techniques_01]: https://addyosmani.com/resources/essentialjsdesignpatterns/book/ "Osmani, Addy: JavaScript Design Patterns Book"
 
 
 [webframeworks_django_01]: https://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout/ "Revsys: Recommended Django Project Layout"
