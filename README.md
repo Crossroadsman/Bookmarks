@@ -61,7 +61,7 @@ Web Frameworks
 Tools
 -----
 
-## Unix Command Line ###
+### Unix Command Line ###
 **[MacOS Awesome Command Line][tools_cli_01]**
 
 ### Vim ###
@@ -78,6 +78,18 @@ Security
 
 **[Hacker101][security_general_01]**  
 A video course on security.
+
+
+Agile
+-----
+
+### Planning ###
+**[Planning Poker Cards][agile_planning_01]**
+
+### Tracking ###
+**[Developing an Agile Planning and Tracking Scorecard][agile_tracking_01]**
+**[The Agile Balanced Scorecard][agile_tracking_02]**
+**[Metrics][agile_tracking_03]**
 
 
 
@@ -120,3 +132,10 @@ A video course on security.
 
 
 [security_general_01]: https://www.hacker101.com/sessions/introduction "Hacker101: Introduction"
+
+
+[agile_planning_01]: https://www.mountaingoatsoftware.com/tools/planning-poker "Mountain Goat Software: Planning Poker Cards"
+
+[agile_tracking_01]: https://www.isixsigma.com/industries/software-it/developing-agile-planning-and-tracking-scorecard/ "i Six Sigma: Developing an Agile Planning and Tracking Scorecard"
+[agile_tracking_02]: https://lithespeed.com/the-agile-balanced-scorecard/ "Lithespeed: The Agile Balanced Scorecard"
+[agile_tracking_03]: www.scaledagileframework.com/metrics/
