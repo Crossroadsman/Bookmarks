@@ -62,7 +62,9 @@ Tools
 -----
 
 ### Unix Command Line ###
+**[The Art of Command Line][tools_cli_02]**
 **[MacOS Awesome Command Line][tools_cli_01]**
+
 
 ### Vim ###
 
@@ -129,6 +131,7 @@ Agile
 [tools_vim_02]: http://vimcasts.org/episodes/tabs-and-spaces/ "Vimcasts: Episode 2: Tabs and Spaces"
 
 [tools_cli_01]: https://github.com/herrbischoff/awesome-macos-command-line "Awesome MacOS Command Line"
+[tools_cli_02]: https://github.com/jlevy/the-art-of-command-line#obscure-but-useful
 
 
 [security_general_01]: https://www.hacker101.com/sessions/introduction "Hacker101: Introduction"
