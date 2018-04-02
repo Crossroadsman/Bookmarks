@@ -8,6 +8,18 @@ Misc
 - **[Hackr.io][misc_general_01]**
 
 
+Operating Systems
+-----------------
+
+### Linux ###
+- **[Linux From Scratch][linux_01]**
+- **[ESR: The Art of Unix Programming][linux_02]**
+
+#### Installing From Source ####
+- **[Mine of Information: Beginner's Guide to Installing From Source][linux_source_01]**
+- **[Mendel Cooper: Building and Installing Software Packages for Linux][linux_source_02]**
+
+
 Server Software
 ---------------
 
@@ -140,6 +152,12 @@ Agile
 **[The Agile Balanced Scorecard][agile_tracking_02]**
 **[Metrics][agile_tracking_03]**
 
+
+[linux_01]: http://www.linuxfromscratch.org/lfs/view/stable/index.html
+[linux_02]: http://www.catb.org/~esr/writings/taoup/html/
+
+[linux_source_01]: http://moi.vonos.net/linux/beginners-installing-from-source/
+[linux_source_02]: http://www.tldp.org/HOWTO/Software-Building-HOWTO.html
 
 
 [misc_general_01]: https://hackr.io "Hackr.io: 'Find the Best programming Courses & Tutorials'"
