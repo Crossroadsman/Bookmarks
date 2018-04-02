@@ -23,6 +23,7 @@ Server Software
 - **[Linode LEMP Guides][servers_lamp_02]**
 - **[Digital Ocean: How to Set Up Django with Postgres, Nginx, and Gunicorn on Ubuntu 16.04][servers_lamp_03]**
 - **[Atem18: Set up Django, Nginx and Gunicorn in a Virtualenv controled by supervisor][servers_lamp_04]**
+- **[Hacker Noon: Deploy Django app with Nginx, Gunicorn, PostgreSQL & Supervisor][servers_lamp_05]**
 
 ### Apache ###
 - **[Linode Apache Web Server on Ubuntu 14.04 LTS][servers_apache_01]**
@@ -153,6 +154,7 @@ Agile
 [servers_lamp_02]: https://www.linode.com/docs/web-servers/lemp/ "Linode: LEMP Guides"
 [servers_lamp_03]: https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04
 [servers_lamp_04]: https://gist.github.com/Atem18/4696071
+[servers_lamp_05]: https://hackernoon.com/deploy-django-app-with-nginx-gunicorn-postgresql-supervisor-9c6d556a25ac
 
 [servers_apache_01]: https://www.linode.com/docs/web-servers/apache/apache-web-server-on-ubuntu-14-04 "Linode: Apache Web Server on Ubuntu 14.04 LTS"
 [servers_apache_02]: https://www.linode.com/docs/web-servers/apache-tips-and-tricks/ "Linode: Apache Tips & Tricks"
