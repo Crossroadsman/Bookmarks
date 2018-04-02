@@ -61,6 +61,8 @@ A Python WSGI HTTP Server for UNIX
 ### Nginx ###
 - **[Linode: Getting Started with NGINX][servers_nginx_01]**
 - **[Linode: How to Configure NGINX][servers_nginx_02]**
+- **[agentzh's Nginx Tutorials (version 2016.07.21)][servers_nginx_03]**
+- **[Nginx: Nginx Beginner's Guide][servers_nginx_04]**
 
 
 JavaScript
@@ -180,6 +182,8 @@ Agile
 
 [servers_nginx_01]: https://linode.com/docs/web-servers/nginx/nginx-installation-and-basic-setup/
 [servers_nginx_02]: https://linode.com/docs/web-servers/nginx/how-to-configure-nginx/
+[servers_nginx_03]: http://openresty.org/download/agentzh-nginx-tutorials-en.html
+[servers_nginx_04]: http://nginx.org/en/docs/beginners_guide.html#control
 
 
 [javascript_general_01]: www.crockford.com/javascript/ "Douglas Crockford: JavaScript [links]"
