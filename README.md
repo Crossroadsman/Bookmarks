@@ -29,10 +29,14 @@ Server Software
 ### Django ###
 - **[Tutorialspoint: Django Tutorial][servers_django_01]**
 
+#### AJAX ####
+- **[Real Python: Django and AJAX Form Submissions—Say 'Goodbye' to the Page Refresh][servers_django_ajax_01]**
+
 #### Search ####
 - **[How to Add a Text Filter to Django Admin][servers_django_search_01]**
 - **[django-autocomplete-light AUtocomplete widget][servers_django_search_02]**
 - **[How to Tango With Django (1.7): Adding External Search][servers_django_search_03]**
+- **[Haystack: Documentations][servers_django_search_04]**
 
 ##### Elasticsearch #####
 - **[Pixabay: Django Search With Elasticsearch (2014)][servers_django_search_elasticsearch_01]**
@@ -40,6 +44,11 @@ Server Software
 
 ### Elasticsearch ###
 - **[Elastic: Elasticsearch docs—Installing and Running Elasticsearch][servers_elasticsearch_01]**
+- **[Elastic: A Practical Introduction to Elasticsearch][servers_elasticsearch_02]**
+- **[Elastic: Upgrade Elasticsearch][servers_elasticsearch_03]**
+- **[TutorialsPoint: Elasticsearch Tutorial][servers_elasticsearch_04]**
+- **[logz.io: An Elasticsearch Tutorial: Getting Started][servers_elasticsearch_05]**
+- **[Digital Ocean: How to Install and Configure Elasticsearch on Ubuntu 16.04][servers_elasticsearch_06]**
 
 
 JavaScript
@@ -127,14 +136,22 @@ Agile
 
 [servers_django_01]: https://www.tutorialspoint.com/django/django_ajax.htm
 
+[servers_django_ajax_01]: https://realpython.com/django-and-ajax-form-submissions/
+
 [servers_django_search_01]: https://medium.com/@hakibenita/how-to-add-a-text-filter-to-django-admin-5d1db93772d8
 [servers_django_search_02]: http://django-autocomplete-light.readthedocs.io/en/master/tutorial.html
 [servers_django_search_03]: http://www.tangowithdjango.com/book17/chapters/bing_search.html
+[servers_django_search_04]: http://django-haystack.readthedocs.io/en/v2.4.1/best_practices.html
 
 [servers_django_search_elasticsearch_01]: https://pixabay.com/en/blog/posts/django-search-with-elasticsearch-47/
 [servers_django_search_elasticsearch_02]: https://medium.freecodecamp.org/elasticsearch-with-django-the-easy-way-909375bc16cb
 
 [servers_elasticsearch_01]: https://www.elastic.co/guide/en/elasticsearch/guide/master/running-elasticsearch.html
+[servers_elasticsearch_02]: https://www.elastic.co/blog/a-practical-introduction-to-elasticsearch
+[servers_elasticsearch_03]: https://www.elastic.co/guide/en/elasticsearch/reference/current/setup-upgrade.html
+[servers_elasticsearch_04]: https://www.tutorialspoint.com/elasticsearch/index.htm
+[servers_elasticsearch_05]: https://logz.io/blog/elasticsearch-tutorial/
+[servers_elasticsearch_06]: https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-16-04
 
 
 [javascript_general_01]: www.crockford.com/javascript/ "Douglas Crockford: JavaScript [links]"
