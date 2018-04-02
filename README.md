@@ -21,6 +21,8 @@ Server Software
 ### LAMP/LEMP General ###
 - **[Linode Install LAMP on Ubuntu 16.04][servers_lamp_01]**
 - **[Linode LEMP Guides][servers_lamp_02]**
+- **[Digital Ocean: How to Set Up Django with Postgres, Nginx, and Gunicorn on Ubuntu 16.04][servers_lamp_03]**
+- **[Atem18: Set up Django, Nginx and Gunicorn in a Virtualenv controled by supervisor][servers_lamp_04]**
 
 ### Apache ###
 - **[Linode Apache Web Server on Ubuntu 14.04 LTS][servers_apache_01]**
@@ -49,6 +51,16 @@ Server Software
 - **[TutorialsPoint: Elasticsearch Tutorial][servers_elasticsearch_04]**
 - **[logz.io: An Elasticsearch Tutorial: Getting Started][servers_elasticsearch_05]**
 - **[Digital Ocean: How to Install and Configure Elasticsearch on Ubuntu 16.04][servers_elasticsearch_06]**
+
+### Gunicorn (Green Unicorn) ###
+A Python WSGI HTTP Server for UNIX
+- **[Gunicorn][servers_gunicorn_01]**
+- **[Full Stack Python: Green Unicorn][servers_gunicorn_02]**
+- **[Djangoproject.org: Use Django with Green Unicorn][servers_gunicorn_03]**
+
+### Nginx ###
+- **[Linode: Getting Started with NGINX][servers_nginx_01]**
+- **[Linode: How to Configure NGINX][servers_nginx_02]**
 
 
 JavaScript
@@ -137,6 +149,8 @@ Agile
 
 [servers_lamp_01]: https://www.linode.com/docs/web-servers/lamp/install-lamp-stack-on-ubuntu-16-04 "Linode: How to Install a LAMP Stack on Ubuntu 16.04"
 [servers_lamp_02]: https://www.linode.com/docs/web-servers/lemp/ "Linode: LEMP Guides"
+[servers_lamp_03]: https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04
+[servers_lamp_04]: https://gist.github.com/Atem18/4696071
 
 [servers_apache_01]: https://www.linode.com/docs/web-servers/apache/apache-web-server-on-ubuntu-14-04 "Linode: Apache Web Server on Ubuntu 14.04 LTS"
 [servers_apache_02]: https://www.linode.com/docs/web-servers/apache-tips-and-tricks/ "Linode: Apache Tips & Tricks"
@@ -159,6 +173,13 @@ Agile
 [servers_elasticsearch_04]: https://www.tutorialspoint.com/elasticsearch/index.htm
 [servers_elasticsearch_05]: https://logz.io/blog/elasticsearch-tutorial/
 [servers_elasticsearch_06]: https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-16-04
+
+[servers_gunicorn_01]: http://gunicorn.org
+[servers_gunicorn_02]: https://www.fullstackpython.com/green-unicorn-gunicorn.html
+[servers_gunicorn_03]: https://docs.djangoproject.com/en/2.0/howto/deployment/wsgi/gunicorn/
+
+[servers_nginx_01]: https://linode.com/docs/web-servers/nginx/nginx-installation-and-basic-setup/
+[servers_nginx_02]: https://linode.com/docs/web-servers/nginx/how-to-configure-nginx/
 
 
 [javascript_general_01]: www.crockford.com/javascript/ "Douglas Crockford: JavaScript [links]"
