@@ -26,6 +26,21 @@ Server Software
 - **[Linode Apache Web Server on Ubuntu 14.04 LTS][servers_apache_01]**
 - **[Linode Apache Tips and Tricks][servers_apache_02]**
 
+### Django ###
+- **[Tutorialspoint: Django Tutorial][servers_django_01]**
+
+#### Search ####
+- **[How to Add a Text Filter to Django Admin][servers_django_search_01]**
+- **[django-autocomplete-light AUtocomplete widget][servers_django_search_02]**
+- **[How to Tango With Django (1.7): Adding External Search][servers_django_search_03]**
+
+##### Elasticsearch #####
+- **[Pixabay: Django Search With Elasticsearch (2014)][servers_django_search_elasticsearch_01]**
+- **[freeCodeCamp: ElasticSearch with Django the Easy Way][servers_django_search_elasticsearch_02]**
+
+### Elasticsearch ###
+- **[Elastic: Elasticsearch docs—Installing and Running Elasticsearch][servers_elasticsearch_01]**
+
 
 JavaScript
 ----------
@@ -48,6 +63,7 @@ Python
 
 ### Techniques ###
 - **[Python Anti-Patterns][python_techniques_01]**
+
 
 Web Frameworks
 --------------
@@ -108,6 +124,17 @@ Agile
 
 [servers_apache_01]: https://www.linode.com/docs/web-servers/apache/apache-web-server-on-ubuntu-14-04 "Linode: Apache Web Server on Ubuntu 14.04 LTS"
 [servers_apache_02]: https://www.linode.com/docs/web-servers/apache-tips-and-tricks/ "Linode: Apache Tips & Tricks"
+
+[servers_django_01]: https://www.tutorialspoint.com/django/django_ajax.htm
+
+[servers_django_search_01]: https://medium.com/@hakibenita/how-to-add-a-text-filter-to-django-admin-5d1db93772d8
+[servers_django_search_02]: http://django-autocomplete-light.readthedocs.io/en/master/tutorial.html
+[servers_django_search_03]: http://www.tangowithdjango.com/book17/chapters/bing_search.html
+
+[servers_django_search_elasticsearch_01]: https://pixabay.com/en/blog/posts/django-search-with-elasticsearch-47/
+[servers_django_search_elasticsearch_02]: https://medium.freecodecamp.org/elasticsearch-with-django-the-easy-way-909375bc16cb
+
+[servers_elasticsearch_01]: https://www.elastic.co/guide/en/elasticsearch/guide/master/running-elasticsearch.html
 
 
 [javascript_general_01]: www.crockford.com/javascript/ "Douglas Crockford: JavaScript [links]"
