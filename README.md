@@ -47,6 +47,9 @@ Server Software
 #### AJAX ####
 - **[Real Python: Django and AJAX Form Submissions—Say 'Goodbye' to the Page Refresh][servers_django_ajax_01]**
 
+#### Forms ####
+- **[Codementor: Handling Multiple Forms on the Same Page in Django][servers_django_forms_01]**
+
 #### Search ####
 - **[How to Add a Text Filter to Django Admin][servers_django_search_01]**
 - **[django-autocomplete-light AUtocomplete widget][servers_django_search_02]**
@@ -180,6 +183,8 @@ Agile
 [servers_django_01]: https://www.tutorialspoint.com/django/django_ajax.htm
 
 [servers_django_ajax_01]: https://realpython.com/django-and-ajax-form-submissions/
+
+[servers_django_forms_01]: https://www.codementor.io/lakshminp/handling-multiple-forms-on-the-same-page-in-django-fv89t2s3j
 
 [servers_django_search_01]: https://medium.com/@hakibenita/how-to-add-a-text-filter-to-django-admin-5d1db93772d8
 [servers_django_search_02]: http://django-autocomplete-light.readthedocs.io/en/master/tutorial.html
