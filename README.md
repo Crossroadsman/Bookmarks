@@ -98,6 +98,13 @@ Quick tips on making the most of Vim.
 Progress: Currently on episode [2][tools_vim_02]
 
 
+File Systems
+------------
+
+### ZFS ###
+**[HowtoGeek: How to Install and Use ZFS on Ubuntu (and Why You'd Want to)][filesystems_zfs_01]**
+
+
 Security
 --------
 
@@ -176,6 +183,9 @@ Agile
 
 [tools_cli_01]: https://github.com/herrbischoff/awesome-macos-command-line "Awesome MacOS Command Line"
 [tools_cli_02]: https://github.com/jlevy/the-art-of-command-line#obscure-but-useful
+
+
+[filesystems_zfs_01]: https://www.howtogeek.com/272220/how-to-install-and-use-zfs-on-ubuntu-and-why-youd-want-to/
 
 
 [security_general_01]: https://www.hacker101.com/sessions/introduction "Hacker101: Introduction"
