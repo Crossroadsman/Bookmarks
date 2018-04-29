@@ -67,6 +67,7 @@ Server Software
 - **[TutorialsPoint: Elasticsearch Tutorial][servers_elasticsearch_04]**
 - **[logz.io: An Elasticsearch Tutorial: Getting Started][servers_elasticsearch_05]**
 - **[Digital Ocean: How to Install and Configure Elasticsearch on Ubuntu 16.04][servers_elasticsearch_06]**
+- **[Elasticsearch in 5 minutes][servers_elasticsearch_07]**
 
 ### Gunicorn (Green Unicorn) ###
 A Python WSGI HTTP Server for UNIX
@@ -156,6 +157,13 @@ Agile
 **[Metrics][agile_tracking_03]**
 
 
+Big Data
+--------
+**[A big list of Awesome Big Data links][bigdata_01]**
+
+
+
+
 [linux_01]: http://www.linuxfromscratch.org/lfs/view/stable/index.html
 [linux_02]: http://www.catb.org/~esr/writings/taoup/html/
 
@@ -200,6 +208,7 @@ Agile
 [servers_elasticsearch_04]: https://www.tutorialspoint.com/elasticsearch/index.htm
 [servers_elasticsearch_05]: https://logz.io/blog/elasticsearch-tutorial/
 [servers_elasticsearch_06]: https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-16-04
+[servers_elasticsearch_07]: http://www.elasticsearchtutorial.com/elasticsearch-in-5-minutes.html
 
 [servers_gunicorn_01]: http://gunicorn.org
 [servers_gunicorn_02]: https://www.fullstackpython.com/green-unicorn-gunicorn.html
@@ -246,3 +255,6 @@ Agile
 [agile_tracking_01]: https://www.isixsigma.com/industries/software-it/developing-agile-planning-and-tracking-scorecard/ "i Six Sigma: Developing an Agile Planning and Tracking Scorecard"
 [agile_tracking_02]: https://lithespeed.com/the-agile-balanced-scorecard/ "Lithespeed: The Agile Balanced Scorecard"
 [agile_tracking_03]: www.scaledagileframework.com/metrics/
+
+
+[bigdata_01]: https://github.com/onurakpolat/awesome-bigdata
