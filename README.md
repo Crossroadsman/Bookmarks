@@ -121,12 +121,18 @@ Tools
 **[The Art of Command Line][tools_cli_02]**
 **[MacOS Awesome Command Line][tools_cli_01]**
 
-
 ### Vim ###
-
 **[Vimcasts][tools_vim_01]**  
 Quick tips on making the most of Vim. 
 Progress: Currently on episode [2][tools_vim_02]
+
+### Regex ###
+- **[Regex Accelerated Course and Cheat Sheet][tools_regex_01]**
+- **[Regular Expressions Reference Table of Contents][tools_regex_02]**
+- **[RegexBuddy][tools_regex_03]**
+- **[Why Does My Regular Expression Work in X but not in Y?][tools_regex_04]**
+- **[Regular Expressions: The Complete Tutorial][tools_regex_05]**
+- **[Regexp Syntax Summary (side by side comparison)][tools_regex_06]**
 
 
 File Systems
@@ -242,6 +248,13 @@ Big Data
 
 [tools_cli_01]: https://github.com/herrbischoff/awesome-macos-command-line "Awesome MacOS Command Line"
 [tools_cli_02]: https://github.com/jlevy/the-art-of-command-line#obscure-but-useful
+
+[tools_regex_01]: http://www.rexegg.com/regex-quickstart.html
+[tools_regex_02]: https://www.regular-expressions.info
+[tools_regex_03]: https://www.regexbuddy.com/manual.html#index
+[tools_regex_04]: https://unix.stackexchange.com/questions/119905/why-does-my-regular-expression-work-in-x-but-not-in-y
+[tools_regex_05]: https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf
+[tools_regex_06]: http://www.greenend.org.uk/rjk/tech/regexp.html
 
 
 [filesystems_zfs_01]: https://www.howtogeek.com/272220/how-to-install-and-use-zfs-on-ubuntu-and-why-youd-want-to/
