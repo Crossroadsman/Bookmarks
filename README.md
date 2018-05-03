@@ -66,7 +66,6 @@ Server Software
 - **[Elastic: Upgrade Elasticsearch][servers_elasticsearch_03]**
 - **[TutorialsPoint: Elasticsearch Tutorial][servers_elasticsearch_04]**
 - **[logz.io: An Elasticsearch Tutorial: Getting Started][servers_elasticsearch_05]**
-- **[Digital Ocean: How to Install and Configure Elasticsearch on Ubuntu 16.04][servers_elasticsearch_06]**
 
 ### Gunicorn (Green Unicorn) ###
 A Python WSGI HTTP Server for UNIX
@@ -212,7 +211,6 @@ Big Data
 [servers_elasticsearch_03]: https://www.elastic.co/guide/en/elasticsearch/reference/current/setup-upgrade.html
 [servers_elasticsearch_04]: https://www.tutorialspoint.com/elasticsearch/index.htm
 [servers_elasticsearch_05]: https://logz.io/blog/elasticsearch-tutorial/
-[servers_elasticsearch_06]: https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-16-04
 
 [servers_gunicorn_01]: http://gunicorn.org
 [servers_gunicorn_02]: https://www.fullstackpython.com/green-unicorn-gunicorn.html
