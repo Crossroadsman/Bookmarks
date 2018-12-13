@@ -110,6 +110,13 @@ Python
 - **[YouTube: Modern Dictionaries by Raymond Hettinger][python_features_dictionaries_01]**
 
 
+Web Applications
+----------------
+
+### General ###
+- **[The Twelve-Factor App][webapplications_general_01]**
+
+
 Web Frameworks
 --------------
 
@@ -172,6 +179,10 @@ Big Data
 --------
 **[A big list of Awesome Big Data links][bigdata_01]**
 
+
+Home Computing
+--------------
+**[How to Change the iTunes Backup Location][home_01]**
 
 
 
@@ -245,6 +256,9 @@ Big Data
 [python_features_dictionaries_01]: https://www.youtube.com/watch?v=p33CVV29OG8
 
 
+[webapplications_general_01]: https://12factor.net/
+
+
 [webframeworks_django_01]: https://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout/ "Revsys: Recommended Django Project Layout"
 [webframeworks_django_02]: https://tutorial.djangogirls.org/en/index.html "Django Girls Tutorial"
 [webframeworks_django_03]: www.tangowithdjango.com "Tango With Django"
@@ -278,3 +292,6 @@ Big Data
 
 
 [bigdata_01]: https://github.com/onurakpolat/awesome-bigdata
+
+
+[home_01]: https://www.reincubate.com/support/ipbe/change-itunes-backup-location/
