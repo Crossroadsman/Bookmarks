@@ -101,6 +101,13 @@ Python
 
 ### Techniques ###
 - **[Python Anti-Patterns][python_techniques_01]**
+- **[YouTube: Raymond Hettinger - Beyond PEP8 -- Best Practices for Beautiful Intelligible Code 2015][python_techniques_02]**
+- **[YouTube: What Does It Take To Be An Expert At Python][python_techniques_03]**
+
+### Features ###
+
+#### Dictionaries ####
+- **[YouTube: Modern Dictionaries by Raymond Hettinger][python_features_dictionaries_01]**
 
 
 Web Frameworks
@@ -232,6 +239,10 @@ Big Data
 [python_general_01]: https://pythonbooks.revolunet.com "Python Books: The Best Free Python Resources"
 
 [python_techniques_01]: https://github.com/quantifiedcode/python-anti-patterns/tree/master/docs "Quantified Code: Python Anti-Patterns"
+[python_techniques_02]: https://www.youtube.com/watch?v=wf-BqAjZb8M
+[python_techniques_03]: https://www.youtube.com/watch?v=7lmCu8wz8ro
+
+[python_features_dictionaries_01]: https://www.youtube.com/watch?v=p33CVV29OG8
 
 
 [webframeworks_django_01]: https://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout/ "Revsys: Recommended Django Project Layout"
